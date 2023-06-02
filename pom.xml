@@ -121,7 +121,7 @@
           <!-- optional configuration -->
           <postReleaseGoals>verify clean</postReleaseGoals>
           <commitMessages>
-            <featureSquashMessage>"Here's a commit message"</featureSquashMessage>
+            <featureSquashMessage>Here's a commit message</featureSquashMessage>
           </commitMessages>
         </configuration>
       </plugin>
