@@ -2,6 +2,32 @@
 
 Changelog of test.
 
+## 1.8 (2023-06-03)
+
+### Other changes
+
+**Merge branch 'release/1.8'**
+
+
+[63dfe](https://github.com/DempseyRoller/test/commit/63dfef32a5faa1f) Joakim *2023-06-03 22:49:44*
+
+**Update versions for release**
+
+
+[cbae0](https://github.com/DempseyRoller/test/commit/cbae09d6ec91f97) Joakim *2023-06-03 22:49:28*
+
+**Update for next development version**
+
+
+[ffcce](https://github.com/DempseyRoller/test/commit/ffcce898c099710) Joakim *2023-06-03 22:39:55*
+
+**Merge tag '1.7' into develop**
+
+* Tag release 
+
+[8c0fd](https://github.com/DempseyRoller/test/commit/8c0fdf3f5071e43) Joakim *2023-06-03 22:39:52*
+
+
 ## 1.7 (2023-06-03)
 
 ### Other changes
