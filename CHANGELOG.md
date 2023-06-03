@@ -2,6 +2,51 @@
 
 Changelog of test.
 
+## 1.7 (2023-06-03)
+
+### Other changes
+
+**Merge branch 'release/1.7'**
+
+
+[d9d71](https://github.com/DempseyRoller/test/commit/d9d71eb77a1c7d0) Joakim *2023-06-03 22:39:48*
+
+**Update versions for release**
+
+
+[732d6](https://github.com/DempseyRoller/test/commit/732d6b9b1bc7454) Joakim *2023-06-03 22:39:13*
+
+**Merge branch 'master' into develop**
+
+
+[691e4](https://github.com/DempseyRoller/test/commit/691e496f3787d58) Joakim *2023-06-03 22:38:43*
+
+**merge master (#2)**
+
+* feat(Feature): Added a changelog 
+* modifying 
+* 1.0.0 
+* Maven CHANGELOG plugin 
+
+[d6afa](https://github.com/DempseyRoller/test/commit/d6afa4209e4454f) DempseyRoller *2023-06-03 21:58:14*
+
+**Maven CHANGELOG plugin**
+
+
+[75e4a](https://github.com/DempseyRoller/test/commit/75e4ad5154efad3) Joakim *2023-06-03 21:56:19*
+
+**Update for next development version**
+
+
+[978a9](https://github.com/DempseyRoller/test/commit/978a91662d75d10) Joakim *2023-06-03 18:23:49*
+
+**Merge tag '1.6' into develop**
+
+* Tag release 
+
+[002c5](https://github.com/DempseyRoller/test/commit/002c5bbaa843334) Joakim *2023-06-03 18:23:46*
+
+
 ## v1.0.0 (2023-06-03)
 
 ### Features
