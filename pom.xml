@@ -8,7 +8,7 @@
 
   <groupId>com.example</groupId>
   <artifactId>demo</artifactId>
-  <version>1.6-mergerequest-SNAPSHOT</version>
+  <version>1.6</version>
 
   <name>demo</name>
   <!-- FIXME change it to the project's website -->
