@@ -1,142 +1,157 @@
-## 2023-06-03
+                ## v1.0.0
+                ### No issue
 
-##### New Features
+                **1.0.0**
 
-* **Feature:**  Added a changelog (701b4ea7)
+                [411b16293da736e](https://github.com/DempseyRoller/test/commit/411b16293da736e)
+                Joakim *2023-06-03 21:30:14*
 
-### 2023-06-03
+                **modifying**
 
-##### New Features
+                [9609841e5d0b264](https://github.com/DempseyRoller/test/commit/9609841e5d0b264)
+                Joakim *2023-06-03 21:30:12*
 
-* **Feature:**  Added a changelog (701b4ea7)
+                **feat(Feature): Added a changelog**
 
-## 2023-06-03
+                [701b4ea765ced38](https://github.com/DempseyRoller/test/commit/701b4ea765ced38)
+                Joakim *2023-06-03 20:45:49*
 
-##### New Features
 
-* **Feature:**  Added a changelog (701b4ea7)
+                ## 1.6
+                ### No issue
 
-## 2023-06-03
+                **Merge branch 'release/1.6'**
 
-##### New Features
+                [e26ebd227e50b97](https://github.com/DempseyRoller/test/commit/e26ebd227e50b97)
+                Joakim *2023-06-03 18:23:43*
 
-* **Feature:**  Added a changelog (701b4ea7)
+                **Update versions for release**
 
-## 2023-06-03
+                [c3a2cbf431a5314](https://github.com/DempseyRoller/test/commit/c3a2cbf431a5314)
+                Joakim *2023-06-03 18:23:16*
 
-##### New Features
+                **Commit message test (#1)**
 
-* **Feature:**  Added a changelog (701b4ea7)
+                * Update versions for feature branch
+                * comitting
+                [5ab4f7b3d695728](https://github.com/DempseyRoller/test/commit/5ab4f7b3d695728)
+                DempseyRoller *2023-06-03 17:58:05*
 
-## 2023-06-03
+                **Merge branch 'develop' into feature/squash2**
 
-##### New Features
+                [65bdf77d6de0488](https://github.com/DempseyRoller/test/commit/65bdf77d6de0488)
+                Joakim *2023-06-03 17:48:43*
 
-* **Feature:**  Added a changelog (701b4ea7)
+                **Squashed commit of the following:**
 
-## 2023-06-03
+                * commit 4e8179fca111a80c855a17278b88a96952ac0a76
+                * Author: Joakim &lt;joakim_eriksson@msn.com&gt;
+                * Date:   Sat Jun 3 01:41:02 2023 +0300
+                * Update versions for development branch
+                * commit b9e36cd628ee3163a1d61c7356b371e6a40ecf00
+                * Author: Joakim &lt;joakim_eriksson@msn.com&gt;
+                * Date:   Sat Jun 3 01:40:37 2023 +0300
+                * jj
+                * commit 99d22b8e90ea1d70b1e9925d56620f8c691c82f9
+                * Author: Joakim &lt;joakim_eriksson@msn.com&gt;
+                * Date:   Sat Jun 3 01:38:06 2023 +0300
+                * fsbs
+                * commit b9baa430f28297228437bbe87c7c1d5d3b638f45
+                * Author: Joakim &lt;joakim_eriksson@msn.com&gt;
+                * Date:   Sat Jun 3 01:36:16 2023 +0300
+                * Update versions for feature branch
+                [e38b02267e0407b](https://github.com/DempseyRoller/test/commit/e38b02267e0407b)
+                Joakim *2023-06-03 17:48:17*
 
-##### New Features
+                **Squashed commit of the following:**
 
-* **Feature:**  Added a changelog (701b4ea7)
+                * commit 4e8179fca111a80c855a17278b88a96952ac0a76
+                * Author: Joakim &lt;joakim_eriksson@msn.com&gt;
+                * Date:   Sat Jun 3 01:41:02 2023 +0300
+                * Update versions for development branch
+                * commit b9e36cd628ee3163a1d61c7356b371e6a40ecf00
+                * Author: Joakim &lt;joakim_eriksson@msn.com&gt;
+                * Date:   Sat Jun 3 01:40:37 2023 +0300
+                * jj
+                * commit 99d22b8e90ea1d70b1e9925d56620f8c691c82f9
+                * Author: Joakim &lt;joakim_eriksson@msn.com&gt;
+                * Date:   Sat Jun 3 01:38:06 2023 +0300
+                * fsbs
+                * commit b9baa430f28297228437bbe87c7c1d5d3b638f45
+                * Author: Joakim &lt;joakim_eriksson@msn.com&gt;
+                * Date:   Sat Jun 3 01:36:16 2023 +0300
+                * Update versions for feature branch
+                [d90899e41474b6c](https://github.com/DempseyRoller/test/commit/d90899e41474b6c)
+                Joakim *2023-06-02 22:57:06*
 
-## 2023-06-03
+                **This is a commit message!**
 
-##### New Features
+                [84f463a565711af](https://github.com/DempseyRoller/test/commit/84f463a565711af)
+                Joakim *2023-06-02 22:53:24*
 
-* **Feature:**  Added a changelog (701b4ea7)
+                **Update versions for development branch**
 
-#### 2023-06-03
+                [4e8179fca111a80](https://github.com/DempseyRoller/test/commit/4e8179fca111a80)
+                Joakim *2023-06-02 22:41:02*
 
-##### New Features
+                **jj**
 
-* **Feature:**  Added a changelog (701b4ea7)
+                [b9e36cd628ee316](https://github.com/DempseyRoller/test/commit/b9e36cd628ee316)
+                Joakim *2023-06-02 22:40:37*
 
-## 2023-06-03
+                **fsbs**
 
-##### New Features
+                [99d22b8e90ea1d7](https://github.com/DempseyRoller/test/commit/99d22b8e90ea1d7)
+                Joakim *2023-06-02 22:38:06*
 
-* **Feature:**  Added a changelog (701b4ea7)
+                **Update versions for feature branch**
 
-#### 2023-06-03
+                [b9baa430f282972](https://github.com/DempseyRoller/test/commit/b9baa430f282972)
+                Joakim *2023-06-02 22:36:16*
 
-##### New Features
+                **feature/ssquash**
 
-* **Feature:**  Added a changelog (701b4ea7)
+                [d0aa4ce39148935](https://github.com/DempseyRoller/test/commit/d0aa4ce39148935)
+                Joakim *2023-06-02 22:17:39*
 
-#### 2023-06-03
+                **Merge branch 'feature/normal' into develop**
 
-##### New Features
+                [b770de76510a457](https://github.com/DempseyRoller/test/commit/b770de76510a457)
+                Joakim *2023-06-02 22:10:38*
 
-* **Feature:**  Added a changelog (701b4ea7)
+                **Update versions for development branch**
 
-## 2023-06-03
+                [2c41f43bed27803](https://github.com/DempseyRoller/test/commit/2c41f43bed27803)
+                Joakim *2023-06-02 22:10:38*
 
-##### New Features
+                **C2**
 
-* **Feature:**  Added a changelog (701b4ea7)
+                [11267cf6c021fe2](https://github.com/DempseyRoller/test/commit/11267cf6c021fe2)
+                Joakim *2023-06-02 22:10:03*
 
-#### 2023-06-03
+                **C1**
 
-##### New Features
+                [857ffeaa29db545](https://github.com/DempseyRoller/test/commit/857ffeaa29db545)
+                Joakim *2023-06-02 22:09:40*
 
-* **Feature:**  Added a changelog (701b4ea7)
+                **Update versions for feature branch**
 
-### 2023-06-03
+                [219936c75e29044](https://github.com/DempseyRoller/test/commit/219936c75e29044)
+                Joakim *2023-06-02 22:08:49*
 
-##### New Features
+                **feature/squash**
 
-* **Feature:**  Added a changelog (701b4ea7)
+                [700c45473022a6b](https://github.com/DempseyRoller/test/commit/700c45473022a6b)
+                Joakim *2023-06-02 22:06:05*
 
-## 2023-06-03
+                **feature/squash**
 
-##### New Features
+                [3457064748f168a](https://github.com/DempseyRoller/test/commit/3457064748f168a)
+                Joakim *2023-06-02 21:56:39*
 
-* **Feature:**  Added a changelog (701b4ea7)
+                **init commit**
 
-#### 2023-06-03
+                [7bb07419bf3b94b](https://github.com/DempseyRoller/test/commit/7bb07419bf3b94b)
+                Joakim *2023-06-02 21:33:38*
 
-##### New Features
 
-* **Feature:**  Added a changelog (701b4ea7)
-
-#### 2023-06-03
-
-##### New Features
-
-* **Feature:**  Added a changelog (701b4ea7)
-
-#### 2023-06-03
-
-##### Other Changes
-
-* **Feature:**  Added a changelog, chore(Chore): Fixed commit message, breaking(Break): A bug fix (77e17c30)
-
-#### 2023-06-03
-
-##### Other Changes
-
-* **Feature:**  Added a changelog breaking(Break): A bug fix (cc207e27)
-
-#### 2023-06-03
-
-- Merge branch 'release/1.6'
-- Update versions for release
-- Commit message test (#1)
-- Merge branch 'develop' into feature/squash2
-- Squashed commit of the following:
-- Squashed commit of the following:
-- This is a commit message!
-- Update versions for development branch
-- jj
-- fsbs
-- Update versions for feature branch
-- feature/ssquash
-- Merge branch 'feature/normal' into develop
-- Update versions for development branch
-- C2
-- C1
-- Update versions for feature branch
-- feature/squash
-- feature/squash
-- init commit
